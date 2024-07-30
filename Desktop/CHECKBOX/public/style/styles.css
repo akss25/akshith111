@@ -1,0 +1,14 @@
+body {
+    font-family: Courier, monospace;
+}
+
+#checkboxes-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px; 
+    border: 2px solid #ccc; 
+    border-radius: 8px; }
+
+.checkbox {
+    margin: 5px;
+}
